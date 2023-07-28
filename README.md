@@ -3,8 +3,8 @@
 Eliane Ferreira, Brasiliense, tenho 2 filhos e moro em São Paulo, faço parte do quadro de funcionárias da {reprograma} e minhas formações são Ciênias contábies e gastronomia.
 
 contatos: 
-
-
+instagram:
+Linkdien:
 
 #  1 - Título: Mães que lutam
 
@@ -15,10 +15,14 @@ contatos:
 O site foi para divulgar a iniciativa no bairro e assim alcançar mais mulheres e ajudar nas questões da saúde mental, físíca, auto-estima, defesa pessoal, um momento de distração e acolhimento.
 
 ### 2.3 - A tecnologia:
-É react native por ter a possibilidade de utilizar a mesma base de código, a questão do tempo, performance, funciona nas principais plataformas e o ambiente de trabalho possibilita caputar o erro mais rápido.
+React
+Javascrip
+Github
+xxx
 
 ### 2.4 - Desafios:
 Por ser o meu projeto final e fazer parte ativamente dele a responabilidade de idealizar, criar cada compomente e ver acontecer.
+Os erros na estrutra e criação do projeto e 
 
 ### 2.5 - Recursos futuroS :
 Implentar o menu hamburguer
