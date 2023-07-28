@@ -1,4 +1,10 @@
 # React + Vite
+# Apresentação Aluna:
+Eliane Ferreira, Brasiliense, tenho 2 filhos e moro em São Paulo, faço parte do quadro de funcionárias da {reprograma} e minhas formações são Ciênias contábies e gastronomia.
+
+contatos: 
+
+
 
 #  1 - Título: Mães que lutam
 

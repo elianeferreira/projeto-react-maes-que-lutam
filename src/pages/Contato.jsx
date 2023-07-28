@@ -1,5 +1,7 @@
 import { useState } from "react";
-import styles from '../styles/pages/contato.module.css'
+import styles from '../styles/pages/contato.module.css';
+import database from "../service/firebase";
+import { ref, push, set } from 'firebase/database';
 
 const Contato = () => {
     const [nome, setNome] = useState('')
@@ -15,7 +17,24 @@ const Contato = () => {
     function handleInputMensagem(e){
         setMensagem(e.target.value)
     }
-    return (
+
+    function handleSubmit(e) {
+       e.preventDefault()
+       
+       const messageListRef = ref(database, 'mensagens')
+       const newMessageRef = push(messageListRef)
+       set(newMessageRef, {
+        nome: nome,
+        email: email,
+        texto: mensagem,
+       })
+       
+       setNome('')
+       setEmail('')
+       setMensagem('')
+    }
+
+   return (
     <>
     <h1 className={styles.tilte}>Venha treinar com a gente👊!</h1>
     <div>
@@ -27,7 +46,7 @@ const Contato = () => {
     </div>
         
      <div className={styles.formContainer}>
-        <form className={styles.form} onSubmit={()=>{}}>
+        <form className={styles.form} onSubmit={handleSubmit}>
            <input 
            className={styles.formInput}
             type="text" 
