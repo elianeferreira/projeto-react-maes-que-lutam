@@ -1,0 +1,18 @@
+.footerContainer {
+    background: #f03592 ;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    bottom: 0;
+    right: 0;
+    left: 0;
+    
+ }
+ 
+ .footerContent {
+     color: #0c0b0b;
+     font-size: 1rem ;
+ }
+ 

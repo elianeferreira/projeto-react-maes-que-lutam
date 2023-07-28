@@ -1,0 +1,59 @@
+  
+.tilte{
+    display:flex ;
+    justify-content: center;
+    padding: 5rem;
+    
+}
+
+p{
+    display: flex;
+    justify-content: center;
+
+}
+
+.formContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+
+}
+
+
+.form {
+    width: 80%;
+    height: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formInput{
+  width: 79%;
+  padding: 1.0rem 2.5rem;
+  border: 1px solid #e7e0e6;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  resize: vertical;
+  justify-content: center;
+
+}
+.formButton{
+    width: 79%;
+    padding: 1.0rem 2.5rem;
+    background-color: #27011e;
+    color:#fff;
+    border: none;
+    margin-top: 1rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.formButton:hover{
+    background-color: #fc2acb;
+}
+ 
+

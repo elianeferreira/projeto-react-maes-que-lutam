@@ -1,0 +1,11 @@
+.homeContainer{
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  gap: 20rem;
+  padding: 5rem;
+  
+}
+h2{
+  color: #570242d5;
+}
