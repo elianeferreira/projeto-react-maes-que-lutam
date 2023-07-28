@@ -8,4 +8,12 @@
 }
 h2{
   color: #570242d5;
+  
+}
+
+.icon{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

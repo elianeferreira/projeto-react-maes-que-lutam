@@ -19,11 +19,11 @@ const Contato = () => {
     <>
     <h1 className={styles.tilte}>Venha treinar com a gente👊!</h1>
     <div>
-        <p>Rua Virginia Cardoso,n 87 - Sede do Inter 
+        <p>Rua Virginia Cardoso,n 87 - Sede do Inter </p>
           
-           Aulas segunda e quarta-feria - as 18h
+           <p>Aulas segunda e quarta-feria - as 18h </p>
         
-          </p>
+          
     </div>
         
      <div className={styles.formContainer}>
