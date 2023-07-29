@@ -22,3 +22,26 @@
      
 
 }
+@media (max-width: 767px) {
+    .headerTitle {
+        font-size: 2rem; /* Tamanho de fonte menor para smartphones */
+    }
+}
+
+/* Responsividade para tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .headerContainer {
+        padding: 4rem; /* Padding maior para tablets */
+    }
+    .headerTitle {
+        font-size: 3rem; /* Tamanho de fonte menor para tablets */
+    }
+}
+
+/* Responsividade para desktops */
+@media (min-width: 1024px) {
+    .headerContainer {
+        padding: 6rem; /* Padding original para desktops */
+    }
+    /* Se desejar, você pode adicionar mais estilos específicos para desktops aqui */
+}

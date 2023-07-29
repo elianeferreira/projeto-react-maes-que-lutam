@@ -10,7 +10,7 @@ const Home = () => {
       <Header title="" image={home} />
       <div className={styles.homeContainer}>
         <div>
-          <Link className={styles.icon}to ="https://www.significados.com.br/muay-thai/" target="_blank">
+          <Link className={styles.icon}to ="https://www.esportelandia.com.br/artes-marciais/tudo-sobre-muay-thai/" target="_blank">
             <img width="50" height="50" src="https://img.icons8.com/ios/50/boxing.png" alt="boxing" />
             <h2>Muay thai</h2>
           </Link>

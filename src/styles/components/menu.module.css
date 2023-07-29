@@ -14,3 +14,15 @@
      font-size: 1.5rem;
  
  }
+ /* Responsividade para smartphones e tablets */
+@media (max-width: 1023px) {
+    .menuContainer {
+        flex-direction: column; /* Altera para empilhamento em dispositivos menores */
+        gap: 2rem; /* Espaçamento menor entre os itens */
+        padding: 1rem; /* Padding menor */
+    }
+
+    .menuLink {
+        font-size: 1.2rem; /* Tamanho de fonte menor para dispositivos menores */
+    }
+}

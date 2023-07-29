@@ -55,5 +55,25 @@ p{
 .formButton:hover{
     background-color: #fc2acb;
 }
- 
+
+
+/* Responsividade para smartphones e tablets */
+@media (max-width: 767px) {
+    .title h1 {
+        font-size: 2rem; /* Tamanho de fonte menor para dispositivos menores */
+    }
+
+    p {
+        font-size: 1rem; /* Tamanho de fonte menor para dispositivos menores */
+    }
+
+    .form {
+        padding: 1rem; /* Padding menor para dispositivos menores */
+        gap: 0.5rem; /* Espaçamento menor entre os campos */
+    }
+
+    .formButton {
+        font-size: 1rem; /* Tamanho de fonte menor para dispositivos menores */
+    }
+}
 

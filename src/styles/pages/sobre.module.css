@@ -20,7 +20,18 @@ header{
     padding: 80px;
     text-align: justify;
     font-size: 1.5rem; line-height: 2rem;
-    
+       
+}
 
-    
+/* Responsividade para smartphones e tablets */
+@media (max-width: 767px) {
+    h3 {
+        font-size: 2rem; /* Tamanho de fonte menor para dispositivos menores */
+    }
+
+    .containerText {
+        padding: 20px; /* Padding menor para dispositivos menores */
+        font-size: 1.2rem; /* Tamanho de fonte menor para dispositivos menores */
+        line-height: 1.8rem; /* Altura de linha menor para dispositivos menores */
+    }
 }

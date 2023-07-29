@@ -17,3 +17,18 @@ h2{
   justify-content: center;
   align-items: center;
 }
+/* Responsividade para smartphones e tablets */
+@media (max-width: 767px) {
+  .homeContainer {
+      gap: 2rem; /* Espaçamento menor para dispositivos menores */
+      padding: 2rem; /* Padding menor para dispositivos menores */
+  }
+
+  h2 {
+      font-size: 1.5rem; /* Tamanho de fonte menor para dispositivos menores */
+  }
+
+  .icon {
+      font-size: 1rem; /* Tamanho de fonte menor para dispositivos menores */
+  }
+}

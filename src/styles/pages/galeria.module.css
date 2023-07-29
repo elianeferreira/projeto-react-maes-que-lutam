@@ -5,7 +5,12 @@
     display: flex;
     justify-content: center;
     background-color: white;
-   
+ }  
+  
 
-
-}  
+@media (max-width: 767px) {
+    .galeriaContainer {
+        padding: 5rem; 
+        width: 50vh;
+    }
+}
