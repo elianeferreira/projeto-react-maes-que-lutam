@@ -1,9 +1,9 @@
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import Menu from "./components/Menu"
-import Home from "./Pages/Home"
-import Sobre from "./Pages/Sobre"
-import Galeria from "./Pages/Galeria"
-import Contato from './Pages/Contato'
+import Home from './pages/Home'
+import Sobre from "./pages/Sobre"
+import Galeria from "./pages/Galeria"
+import Contato from './pages/Contato'
 import Footer from "./components/Footer"
 
 

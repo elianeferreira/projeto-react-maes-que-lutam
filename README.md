@@ -2,9 +2,21 @@
 # Apresentação Aluna:
 Eliane Ferreira, Brasiliense, tenho 2 filhos e moro em São Paulo, faço parte do quadro de funcionárias da {reprograma} e minhas formações são Ciênias contábies e gastronomia.
 
-contatos: 
-instagram:
-Linkdien:
+## Problema
+Ajudar mulheres do bairro moinho velho - SP na saúde física, mental e defesa pessoal
+Ensinar técnicas de Muay Thai
+Mulheres que não tem condições financeiras de frequentar academia
+
+
+### Solucão
+Divulgar o projeto para alcançar mais mulheres do bairro
+contribuir para que número de mulheres com dificuldades financeiras não deixem de fazer uma atividade física
+Melhorar a auto-estima 
+Amenizar sintomas depressivos
+
+#### Objetivo: 
+Impactar mais mulheres 
+Formar mais alunas
 
 #  1 - Título: Mães que lutam
 
@@ -17,17 +29,25 @@ O site foi para divulgar a iniciativa no bairro e assim alcançar mais mulheres 
 ### 2.3 - A tecnologia:
 React
 Javascrip
+Firebase
 Github
-xxx
+Netlify
 
 ### 2.4 - Desafios:
-Por ser o meu projeto final e fazer parte ativamente dele a responabilidade de idealizar, criar cada compomente e ver acontecer.
-Os erros na estrutra e criação do projeto e 
+Por ser o meu projeto final e fazer parte ativamente da iniciativa a responabilidade de idealizar, criar cada compomente e ver acontecer.
+Os erros na estrutra e criação do projeto;
+Utilização das tecnologias principalmente css
+
+### 2.5 - Aprendizados:
+Aprender é uma constante;
+Pedir ajuda não te faz menos capaz;
+E ver que evoluir ao longo dessas 18 semanas para quem não tinha nocão do que é programação.
 
 ### 2.5 - Recursos futuroS :
 Implentar o menu hamburguer
 Responsividade
 Incluir o calendário de iniciativas (mês da mulher, arrecadação de produtos de higiene, aulão coletivo)
+Melhorar o design 
 
 #### 3- Instruções e execução do projeto
 
