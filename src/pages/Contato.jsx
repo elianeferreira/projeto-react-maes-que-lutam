@@ -38,9 +38,9 @@ const Contato = () => {
     <>
     <h1 className={styles.tilte}>Venha treinar com a gente👊!</h1>
     <div>
-        <p>Rua Virginia Cardoso,n 87 - Sede do Inter </p>
+        <p>Rua Virginia Cardoso,n 87 - Sede do Inter - Moinho Velho - SP</p>
           
-           <p>Aulas segunda e quarta-feria - as 18h </p>
+           <p>Aulas segunda e quarta-feira - 18h💕 </p>
         
           
     </div>

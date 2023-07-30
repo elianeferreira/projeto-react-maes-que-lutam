@@ -3,7 +3,7 @@
 Eliane Ferreira, Brasiliense, tenho 2 filhos e moro em São Paulo, faço parte do quadro de funcionárias da {reprograma} e minhas formações são Ciênias contábies e gastronomia.
 
 ## Problema
-Ajudar mulheres do bairro moinho velho - SP na saúde física, mental e defesa pessoal
+Ajudar mulheres do bairro moinho velho - SP na saúde física, mental e defesa pessoal.
 Ensinar técnicas de Muay Thai
 Mulheres que não tem condições financeiras de frequentar academia
 
@@ -44,7 +44,7 @@ Pedir ajuda não te faz menos capaz;
 E ver que evoluir ao longo dessas 18 semanas para quem não tinha nocão do que é programação.
 
 ### 2.5 - Recursos futuroS :
-Implentar o menu hamburguer
+Implementar o menu hamburguer
 Responsividade
 Incluir o calendário de iniciativas (mês da mulher, arrecadação de produtos de higiene, aulão coletivo)
 Melhorar o design 

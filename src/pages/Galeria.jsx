@@ -8,7 +8,7 @@ const Galeria = () => {
     return (
         
     <div className={styles.galeriaContainer}>
-       <video width="800" height="700" controls>
+       <video width="600" height="600" controls>
          <source src={montagem} type="video/mp4"/>
        </video>
        

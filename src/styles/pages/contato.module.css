@@ -3,19 +3,25 @@
     display:flex ;
     justify-content: center;
     padding: 5rem;
+    color: #50033d;
     
 }
 
 p{
     display: flex;
     justify-content: center;
-
+    color: #50033d;
+    padding: 10px; ;
 }
 
 .formContainer{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #50033d;
+    margin: 2rem;
+    padding: 2rem
+    
    
 
 
@@ -32,7 +38,7 @@ p{
 }
 
 .formInput{
-  width: 79%;
+  width: 50%;
   padding: 1.0rem 2.5rem;
   border: 1px solid #e7e0e6;
   border-radius: 4px;
@@ -42,7 +48,7 @@ p{
 
 }
 .formButton{
-    width: 79%;
+    width: 50%;
     padding: 1.0rem 2.5rem;
     background-color: #27011e;
     color:#fff;
